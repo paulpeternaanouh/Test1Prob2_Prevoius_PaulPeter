@@ -1,0 +1,11 @@
+:vsplit
+ctrl w w
+:e c1.data
+ctrl v
+shift G
+select data
+y
+ctrl w w
+p
+:wq
+
