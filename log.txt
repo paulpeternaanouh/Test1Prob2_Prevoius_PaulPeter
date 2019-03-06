@@ -1,0 +1,23 @@
+commit e3a3a9bd03b656f9a22235d8092e71e88733fc93
+Author: paulpeternaanouh <pnaanouh@gmail.com>
+Date:   Wed Mar 6 10:31:50 2019 +0000
+
+    aliases
+
+commit 8d836c12a10c6b18677bc6e1d38247fa7b56ae71
+Author: paulpeternaanouh <pnaanouh@gmail.com>
+Date:   Wed Mar 6 10:26:48 2019 +0000
+
+    added cf
+
+commit 0d491a3337ae09f8ee7afe77768ef9c36193c9cd
+Author: paulpeternaanouh <pnaanouh@gmail.com>
+Date:   Wed Mar 6 10:26:22 2019 +0000
+
+    added c1 and its procedure
+
+commit 1c8cb7889f7ea4dbd6a184f1b69a8da8321cc528
+Author: paulpeter naanouh <pnaanouh@gmail.com>
+Date:   Tue Mar 5 10:43:23 2019 +0200
+
+    added stats
